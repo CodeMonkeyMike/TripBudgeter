@@ -1,0 +1,22 @@
+{
+  "name": "Server",
+  "version": "1.0.0",
+  "description": "TripBudgeter Server",
+  "main": "Server.js",
+  "scripts": {
+    "test": "TripBudgeter Server Start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "// set variables for environment"
+  },
+  "keywords": [
+    "var",
+    "express",
+    "=",
+    "require('express');"
+  ],
+  "author": "var app = express",
+  "license": "var path = require('path');"
+}
